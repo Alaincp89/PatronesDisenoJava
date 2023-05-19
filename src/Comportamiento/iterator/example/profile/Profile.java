@@ -6,18 +6,19 @@ import java.util.List;
 import java.util.Map;
 
 public class Profile {
-    private String nombre;
+    private String name;
     private String email;
     private Map<String, List<String>> contacts = new HashMap<>();
 
+
     public Profile(String email, String name, String... contacts) {
         this.email = email;
-        this.nombre = name;
+        this.name = name;
 
         // Parse contact list from a set of "friend:email@gmail.com" pairs.
         for (String contact : contacts) {
             String[] parts = contact.split(":");
-            String contactType = "friend", contactEmail;
+            String contactType = "Amigo", contactEmail;
             if (parts.length == 1) {
                 contactEmail = parts[0];
             }
@@ -36,8 +37,8 @@ public class Profile {
         return email;
     }
 
-    public String getNombre() {
-        return nombre;
+    public String getName() {
+        return name;
     }
 
     public List<String> getContacts(String contactType) {
