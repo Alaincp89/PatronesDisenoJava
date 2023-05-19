@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32426e3-a0c9-4ea5-91f9-f3ad7c9567c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Comportamiento/iterator/example/iterators/LinkedInIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Comportamiento/iterator/example/redes_sociales/LinkedIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comportamiento/iterator/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comportamiento/iterator/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comportamiento/iterator/example/chatsocial/ChatSocial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comportamiento/iterator/example/chatsocial/ChatSocial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comportamiento/iterator/example/iterators/ProfileIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comportamiento/iterator/example/iterators/ProfileIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comportamiento/iterator/example/iterators/TwitterItetaror.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comportamiento/iterator/example/iterators/TwitterItetaror.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comportamiento/iterator/example/profile/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comportamiento/iterator/example/profile/Profile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comportamiento/iterator/example/redes_sociales/RedSocial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comportamiento/iterator/example/redes_sociales/RedSocial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comportamiento/iterator/example/redes_sociales/Twitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comportamiento/iterator/example/redes_sociales/Twitter.java" afterDir="false" />
-    </list>
+    <list default="true" id="d32426e3-a0c9-4ea5-91f9-f3ad7c9567c5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +40,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "introduce.parameter.lambda": "true"
+    "introduce.parameter.lambda": "true",
+    "last_opened_file_path": "D:/PatronesDise-oJava"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Comportamiento.iterator.example.Main">
@@ -118,15 +108,15 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
-              <option name="FILTERS">
+            </State>
+          </value>
+        </entry>
+        <entry key="c263728e-d350-49dd-89b0-db2527d32204">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/main" />
-                      </list>
-                    </value>
-                  </entry>
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
             </State>
@@ -158,6 +148,7 @@
     </option>
     <option name="OPEN_GENERIC_TABS">
       <map>
+        <entry key="c263728e-d350-49dd-89b0-db2527d32204" value="TOOL_WINDOW" />
         <entry key="d92b8320-3f11-42c2-94be-e5ec2c696f83" value="TOOL_WINDOW" />
       </map>
     </option>
